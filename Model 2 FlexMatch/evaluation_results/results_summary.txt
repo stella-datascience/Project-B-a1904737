@@ -1,0 +1,23 @@
+FlexMatch Transfer Learning Results
+==================================================
+Overall Accuracy: 0.6366
+
+Per-class Accuracy:
+airplane: 0.584 precision, 0.709 recall, 0.640 f1-score
+automobile: 0.653 precision, 0.917 recall, 0.763 f1-score
+bird: 0.621 precision, 0.435 recall, 0.511 f1-score
+cat: 0.670 precision, 0.426 recall, 0.521 f1-score
+deer: 0.687 precision, 0.398 recall, 0.504 f1-score
+dog: 0.519 precision, 0.791 recall, 0.627 f1-score
+frog: 0.880 precision, 0.607 recall, 0.718 f1-score
+horse: 0.495 precision, 0.816 recall, 0.616 f1-score
+ship: 0.772 precision, 0.584 recall, 0.665 f1-score
+truck: 0.809 precision, 0.683 recall, 0.741 f1-score
+
+Macro Average F1: 0.631
+Weighted Average F1: 0.631
+
+Confidence Analysis:
+Correct predictions mean confidence: 0.619
+Incorrect predictions mean confidence: 0.412
+Confidence gap: 0.207
